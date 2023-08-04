@@ -1,0 +1,29 @@
+{
+  "name": "wind-kit",
+  "version": "1.0.0",
+  "description": "A tailwind component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsinShadrach/wind-kit.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwind-components",
+    "tailwind-component-library"
+  ],
+  "author": "overflow_why",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EsinShadrach/wind-kit/issues"
+  },
+  "homepage": "https://github.com/EsinShadrach/wind-kit#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}
